@@ -20,6 +20,6 @@ Smart-Mosaic requires iOS 7. It is available on the App Store.
 
 License
 
-Smart-Mosaic is Free/Libre Open Source Software. It is distributed under the Mozilla Public License v2.0.
+Inkpad is Free/Libre Open Source Software. It is distributed under the Mozilla Public License v2.0.
 
 Though not strictly forbidden by the license, please do not submit unmodified (or trivially modified) versions of this application to the App Store.

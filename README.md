@@ -18,7 +18,7 @@ Features
 
 Smart Mosaic requires iOS 7. It is available on the App Store.
 
-License
+Features
 
 Smart Mosaic is Free/Libre Open Source Software. It is distributed under the Mozilla Public License v2.0.
 

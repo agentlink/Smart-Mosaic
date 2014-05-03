@@ -16,7 +16,7 @@ Features
 
 =====================================
 
-Smart Mosaic requires iOS 7. It is available on the App Store.
+Smart Mosaic requires iOS 7. It is available on the [App Store.](https://itunes.apple.com/us/app/smart-mosaic-photo-mosaic/id594876382?mt=8)<br />  
 
 License
 ============

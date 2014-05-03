@@ -1,7 +1,6 @@
 Smart-Mosaic
 ============
 
-Description
 Smart Mosaic can automatically recognize the face in your photo, and add a mosaic effect to the face. Only with finger operation on specific zones,you can bring them mosaic styles.
 
 Features
